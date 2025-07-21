@@ -1,0 +1,28 @@
+{
+  "name": "api-project-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "description": "A minimal RESTful Task Manager API built with Node.js and TypeScript.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshayS80/node-api-project-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshayS80/node-api-project-1/issues"
+  },
+  "homepage": "https://github.com/AkshayS80/node-api-project-1#readme"
+}
